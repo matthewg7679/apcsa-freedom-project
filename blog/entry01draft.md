@@ -37,6 +37,7 @@ code for Minecraft inventory menu
 —————————
 
 The Minecraft world however needs to be a 3D list. 
+```language
 variable_name_1 = [ x1_y0 , x2_y0, x3_y0 , x4_y0, x5_y0 , x6_y0, x7_y0 , x8_y0, x9_y0 , x10_y0, x11_y0 , x12_y0, x13_y0 , x14_y0, x15_y0 , x16_y0 ] 
 
 variable_name_2 = [ x1_y1, x2_y1, x3_y1, x4_y1, x5_y1, x6_y1, x7_y1, x8_y1, x9_y1, x10_y1, x11_y1, x12_y1, x13_y1, x14_y1, x15_y1, x16_y1 ] 
@@ -48,6 +49,7 @@ variable_name_last_2nd = [ x1_y319, x2_y319, x3_y319, x4_y319, x5_y319, x6_y319,
 variable_name_last_1st = [ x1_y320, x2_y320, x3_y320, x4_y320, x5_y320, x6_y320, x7_y320, x8_y320, x9_y320, x10_y320, x11_y320, x12_y320, x13_y320, x14_y320, x15_y320, x16_y320 ] 
 
 world_generation_chunk = [ variable_name_1, variable_name_2, . . . , variable_name_last_2nd, variable_name_last_1st ] 
+```
 Essentially, this would be a shortened down version of the long code for the chunk generation. 
 
 The chunk generation for the real Minecraft goes by a 16x16 area of blocks for each chunk. So, the clone will do the same where each list under “variable_name” placeholder represents a layer of the y-coordinate. 
@@ -85,6 +87,7 @@ For the piston? It is just as easy at to replace the string value of the item in
 —————————
 
 Just as a proof of concept, here is how the model code could potentially look like. 
+```language
 world_generation_chunk[y-1][x][z] = String(world_generation_chunk[y][x][z])
 
 if (y incremented by 1) : 
@@ -93,6 +96,7 @@ elif (y decremented by 1) :
  world_generation_chunk[y][x][z] = String(“piston_head_face_down”) 
 
 // [ . . . ] ( assuming more if statements depending on increment or decrement of x or z direction, since these if statements only show about the y_coordinate variable ) 
+```
 
 —————————
 
