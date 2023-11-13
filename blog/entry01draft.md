@@ -102,7 +102,7 @@ elif (y decremented by 1) :
 
 Example strings that could be used in the code to represent the facing of piston head: 
 
-1 ) `“piston_head_face_left_x”` or “piston_head_face_x_left” 
+1 ) `“piston_head_face_left_x”` or `“piston_head_face_x_left”` 
 
 2 ) “piston_head_face_right_x” or “piston_head_face_x_right” 
 
