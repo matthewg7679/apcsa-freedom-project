@@ -52,15 +52,15 @@ world_generation_chunk = [ variable_name_1, variable_name_2, . . . , variable_na
 ```
 Essentially, this would be a shortened down version of the long code for the chunk generation. 
 
-The chunk generation for the real Minecraft goes by a 16x16 area of blocks for each chunk. So, the clone will do the same where each list under “variable_name” placeholder represents a layer of the y-coordinate. 
+The chunk generation for the real Minecraft goes by a 16x16 area of blocks for each chunk. So, the clone will do the same where each list under “`variable_name`” placeholder represents a layer of the y-coordinate. 
 
 X-coordinates go by the length of each list assinged to each placeholder variable. All of those list have to be length 16. 
 
-Each “x#_y#” in each item of the lists assinged to the placeholder variables are supposed to indicate the x and y coordinates of that specific spot in the lists. And each “x#_y#” is a variable for a third list inside of the 2D list containing these “x#_y#” variables. 
+Each “`x#_y#`” in each item of the lists assinged to the placeholder variables are supposed to indicate the x and y coordinates of that specific spot in the lists. And each “`x#_y#`” is a variable for a third list inside of the 2D list containing these “`x#_y#`” variables. 
 
 Therby the whole thing is a 3D list at the very end. 
 
-( Edit: the code is under the assumption that Minecraft’s world height limit is 320 blocks, I don’t know the true world height so imagine in your head that the 3D list will have the “2D list” section taking up multiple lines of code. The “2D list” actually will have the same amount of lines of code to produce the container for “x#_y#” as the amount of blocks meant for the true world height. ) 
+( Edit: the code is under the assumption that Minecraft’s world height limit is 320 blocks, I don’t know the true world height so imagine in your head that the 3D list will have the “2D list” section taking up multiple lines of code. The “2D list” actually will have the same amount of lines of code to produce the container for “`x#_y#`” as the amount of blocks meant for the true world height. ) 
 
 —————————
 
