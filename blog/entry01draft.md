@@ -74,9 +74,9 @@ Any code that is similar or the same to Minecraft’s code will be considered as
 
 —————————
 
-Turns out, there is a reason as to why the variables making up the lists in the “2D list” section of the 3D list are labeled in the format “x#_y#”. 
+Turns out, there is a reason as to why the variables making up the lists in the “2D list” section of the 3D list are labeled in the format “`x#_y#`”. 
 
-When you want to get a string of the 3D list that represents a block of the Minecraft clone, you get a return value from the line of code being “world_generation_chunk[y_coordinate][x_coordinate][z_coordinate]”. 
+When you want to get a string of the 3D list that represents a block of the Minecraft clone, you get a `return` value from the line of code being “`world_generation_chunk[y_coordinate][x_coordinate][z_coordinate]`”. 
 
 This also conveniently helps figure out how pistons work already since the block being moved just adds or subtracts 1 of any x, y, or z direction depending on where the piston faces, having the head towards the block, in terms of direction. 
 
