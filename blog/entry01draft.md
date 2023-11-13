@@ -78,7 +78,7 @@ Turns out, there is a reason as to why the variables making up the lists in the 
 
 When you want to get a string of the 3D list that represents a block of the Minecraft clone, you get a `return` value from the line of code being “`world_generation_chunk[y_coordinate][x_coordinate][z_coordinate]`”. 
 
-This also conveniently helps figure out how pistons work already since the block being moved just adds or subtracts 1 of any x, y, or z direction depending on where the piston faces, having the head towards the block, in terms of direction. 
+This also conveniently helps figure out how pistons work already since the block being moved just `adds or subtracts 1` of `any x, y, or z` direction depending on where the piston faces, having the head towards the block, in terms of direction. 
 
 For the piston? It is just as easy at to replace the string value of the item in the list location of the 3D list. 
 
