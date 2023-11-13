@@ -104,11 +104,11 @@ Example strings that could be used in the code to represent the facing of piston
 
 1 ) `“piston_head_face_left_x”` or `“piston_head_face_x_left”` 
 
-2 ) “piston_head_face_right_x” or “piston_head_face_x_right” 
+2 ) `“piston_head_face_right_x”` or `“piston_head_face_x_right”`
 
-3 ) “piston_head_face_left_z” or “piston_head_face_z_left” 
+3 ) `“piston_head_face_left_z”` or `“piston_head_face_z_left”` 
 
-4 ) “piston_head_face_right_z” or “piston_head_face_z_right” 
+4 ) `“piston_head_face_right_z”` or `“piston_head_face_z_right”` 
 
 ( Image these strings for the model code ) 
 
