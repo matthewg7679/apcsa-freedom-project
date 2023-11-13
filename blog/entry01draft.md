@@ -29,10 +29,10 @@ inventoryRow2 = [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
 inventoryRow3 = [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ] 
 
 inventorySlots = [ inventoryRow1, inventoryRow2, inventoryRow3 ] 
-code for Minecraft inventory menu
 ```
+code for Minecraft inventory menu
 
-( as a Model ) 
+( as a `Model` ) 
 
 —————————
 
