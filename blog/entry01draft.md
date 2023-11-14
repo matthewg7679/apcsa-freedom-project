@@ -152,7 +152,7 @@ Example strings that could be used in the code to represent the facing of piston
 
 I will now explain the basic block of the world generation. Hope you understand baised on the string names. 
 
-1 ) “grass_block” 
+1 ) `“grass_block”` 
 
 2 ) “dirt_block” 
 
