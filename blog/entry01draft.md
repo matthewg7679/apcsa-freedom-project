@@ -134,17 +134,17 @@ Example strings that could be used in the code to represent the facing of piston
 
 Example strings that could be used in the code to represent the facing of piston itself without extension/extending : 
 
-1 ) “piston_face_left_x” or “piston_face_x_left” 
+1 ) `“piston_face_left_x”` or `“piston_face_x_left”` 
 
-2 ) “piston_face_right_x” or “piston_face_x_right” 
+2 ) `“piston_face_right_x”` or `“piston_face_x_right”`
 
-3 ) “piston_face_left_z” or “piston_face_z_left” 
+3 ) `“piston_face_left_z”` or `“piston_face_z_left”` 
 
-4 ) “piston_face_right_z” or “piston_face_z_right” 
+4 ) `“piston_face_right_z”` or `“piston_face_z_right”` 
 
-5 ) “piston_face_up” 
+5 ) `“piston_face_up”` 
 
-6 ) “piston_face_down” 
+6 ) `“piston_face_down”` 
 
 ( These strings are meant for the piston by itself without it being extended, and also used for future if statements involving the retraction of the piston. ) 
 
