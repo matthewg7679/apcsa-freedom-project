@@ -160,17 +160,17 @@ I will now explain the basic block of the world generation. Hope you understand 
 
 4 ) `“bedrock”` or `“bedrock_block”` 
 
-5 ) “cobblestone” or “cobblestone_block” 
+5 ) `“cobblestone”` or `“cobblestone_block”` 
 
-6 ) “oak_log” ( first of many log types ) 
+6 ) `“oak_log”` ( first of many log types ) 
 
-7 ) “oak_leaves” ( first of many leave types ) 
+7 ) `“oak_leaves”` ( first of many leave types ) 
 
 8 ) “crafting_table” ( used for crafting in 3x3 grid, similar code to 2x2 crafting grid in first model code ) 
 
-9 ) “furnace” or “furnace_block” ( more complicated [2D list], but duable: the furnace able to smelt items ) 
+9 ) `“furnace”` or `“furnace_block”` ( more complicated [2D list], but duable: the furnace able to smelt items ) 
 
-[ . . . ( etc. , etc. , and etc. ) ] 
+`[ . . . ( etc. , etc. , and etc. ) ]` 
 
 ( These String values of certain blocks are meant to be like variable names to represent each block in the first place. ) 
 
