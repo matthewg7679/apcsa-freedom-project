@@ -186,17 +186,19 @@ The if conditions for each block will have each condition being ( block_name = /
 
 The code will goes as follows : 
 
+```language
 if ( other_blocks == true ) : 
  // code that sends straight to the other blocks not mentioned in prior string lists 
 elif ( modified_added_blocks == true ) : 
  // code that leads to different txt file for inclusion of the modified added blocks ( or to put in other words, blocks that are created for the mod ) 
 elif ( block_name == /* vanilla MatthewCraft block */ ) : 
  // code relating to placing the block and the block’s properties down 
-( every elif after this goes with all blocks mentioned before; please imagine this model code as well being a txt file, you will see why in a bit ) 
+```
+( every `elif` after this goes with all blocks mentioned before; please imagine this model code as well being a txt file, you will see why in a bit ) 
 
 —————————
 
-The code for the massive “if elif” statement will be in “.txt” format since I want the code to be a string just in case I want to add more blocks to my valina clone of Minecraft. 
+The code for the massive “`if elif`” statement will be in “`.txt`” format since I want the code to be a string just in case I want to add more blocks to my valina clone of Minecraft. 
 
 The same will go for modded blocks since the mid creator can just insert code using their txt files of their code to put into my code. 
 
