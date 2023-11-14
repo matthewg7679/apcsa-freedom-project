@@ -154,11 +154,11 @@ I will now explain the basic block of the world generation. Hope you understand 
 
 1 ) `“grass_block”` 
 
-2 ) “dirt_block” 
+2 ) `“dirt_block”` 
 
-3 ) “stone_block” 
+3 ) `“stone_block”` 
 
-4 ) “bedrock” or “bedrock_block” 
+4 ) `“bedrock”` or `“bedrock_block”` 
 
 5 ) “cobblestone” or “cobblestone_block” 
 
