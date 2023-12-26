@@ -66,6 +66,8 @@ I mainly, to compesate, choosed one of those massive projects and figured out a 
 Those main people were the cause of my inspiration to do this idea myself . This is especially since I knew from looking around by this idea that there is a whoole community of people who too(also) wanted to simply "recreate MineCraft" just like I was about to currently do . 
 
 The general idea of "recreating Minecraft" cane be simplified by making assumptions like not doing infinite world terrain like those people I got inspired by , and making sure the size of the world is like the size of a chunk . 
+
+In fact, the dedicated section "[All the other ideas I had ( as planning towards my main tool and/or main project to be worked on ) ](https://github.com/matthewg7679/apcsa-freedom-project/blob/main/blog/entry01draftNumber2.md#all-the-other-ideas-i-had--as-planning-towards-my-main-tool-andor-main-project-to-be-worked-on--4)"
 #### TimeLine : [M 11/6: Blog 1](https://classroom.google.com/c/NTg5NDk0MTg0Njk5/a/NjM3Njk2OTQ5OTM5/details) to [M 12/11: Blog 2](https://classroom.google.com/c/NTg5NDk0MTg0Njk5/a/NjQ1NTkxMDQyMzk1/details) 
 . . . 
 ### Main Tool ( Finalized ) 
