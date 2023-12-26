@@ -67,7 +67,7 @@ Those main people were the cause of my inspiration to do this idea myself . This
 
 The general idea of "recreating Minecraft" cane be simplified by making assumptions like not doing infinite world terrain like those people I got inspired by , and making sure the size of the world is like the size of a chunk . 
 
-In fact, the dedicated section "[All the other ideas I had ( as planning towards my main tool and/or main project to be worked on ) ]()" is the same section of this Blog which contains all of my ideas that I formed during this timeline after fully setting up my Blog entreies at this same timeline . 
+In fact, the dedicated section "[All the other ideas I had ( as planning towards my main tool and/or main project to be worked on ) [ Part 1 ] ]()" is the same section of this Blog which contains all of my ideas that I formed during this timeline after fully setting up my Blog entreies at this same timeline . 
 #### TimeLine : [M 11/6: Blog 1](https://classroom.google.com/c/NTg5NDk0MTg0Njk5/a/NjM3Njk2OTQ5OTM5/details) to [M 12/11: Blog 2](https://classroom.google.com/c/NTg5NDk0MTg0Njk5/a/NjQ1NTkxMDQyMzk1/details) 
 . . . 
 ### Main Tool ( Finalized ) 
