@@ -37,6 +37,17 @@
 ### All the other ideas I had ( as planning towards my main tool and/or main project to be worked on ) 
 . . . 
 
+## Version #4 : 
+### The Journey that led up to these tools ( and , especially the first two, Blog Entries ) . 
+. . . 
+#### TimeLine : [Assingment Name (1)](https://classroom.google.com/c/NTg5NDk0MTg0Njk5/sa/NjMzODM2MjA5ODAy/details) to [Assingment Name (2)](https://classroom.google.com/c/NTg5NDk0MTg0Njk5/sa/NjMzODM2MjA5ODAy/details) 
+. . . 
+### Main Tool ( Finalized ) 
+. . . 
+### Backup Tool ( Finalized ) 
+. . . 
+### All the other ideas I had ( as planning towards my main tool and/or main project to be worked on ) 
+. . . 
 # ( End of Organizer(s) ) 
 
 ### The Journey that led up to these tools . 
