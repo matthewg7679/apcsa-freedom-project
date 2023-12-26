@@ -1,7 +1,7 @@
 # Sections in terms of organization : 
 ### The Journey that led up to these tools . 
 . . . 
-#### TimeLine : 
+#### TimeLine : [guide](https://www.youtube.com/watch?v=CwA1VWP0Ldw) to [guide](https://classroom.google.com/c/NTg5NDk0MTg0Njk5/sa/NjMzODM2MjA5ODAy/details)
 ### Main Tool ( Finalized ) 
 . . . 
 ### Backup Tool ( Finalized ) 
