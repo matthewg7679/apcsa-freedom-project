@@ -56,6 +56,7 @@
 . . . 
 #### TimeLine : [M 10/16: FP Browse Tools](https://classroom.google.com/c/NTg5NDk0MTg0Njk5/sa/NjMzODM2MjA5ODAy/details) to [M 11/6: Blog 1](https://classroom.google.com/c/NTg5NDk0MTg0Njk5/a/NjM3Njk2OTQ5OTM5/details) 
 ![Screenshot 2023-10-29 at 11 40 28 PM](https://github.com/matthewg7679/apcsa-freedom-project/assets/145606579/c6f8c6da-d37c-4f46-9da0-f9e0b17ef907)
+[ Image showing my "finalization" of my first draft of my main and backup tools ](https://github.com/matthewg7679/apcsa-freedom-project/assets/145606579/c6f8c6da-d37c-4f46-9da0-f9e0b17ef907)
 #### TimeLine : [M 11/6: Blog 1](https://classroom.google.com/c/NTg5NDk0MTg0Njk5/a/NjM3Njk2OTQ5OTM5/details) to [M 12/11: Blog 2](https://classroom.google.com/c/NTg5NDk0MTg0Njk5/a/NjQ1NTkxMDQyMzk1/details) 
 . . . 
 ### Main Tool ( Finalized ) 
