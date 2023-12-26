@@ -54,7 +54,7 @@
 . . . 
 #### TimeLine : [M 9/18: FP Overview](https://classroom.google.com/c/NTg5NDk0MTg0Njk5/m/NjI0MjA1MTc4MDgz/details) to [M 10/16: FP Browse Tools](https://classroom.google.com/c/NTg5NDk0MTg0Njk5/sa/NjMzODM2MjA5ODAy/details) 
 . . . 
-#### TimeLine : [M 10/16: FP Browse Tools](https://classroom.google.com/c/NTg5NDk0MTg0Njk5/sa/NjMzODM2MjA5ODAy/details) to [Assingment Name](https://classroom.google.com/c/NTg5NDk0MTg0Njk5/sa/NjMzODM2MjA5ODAy/details) 
+#### TimeLine : [M 10/16: FP Browse Tools](https://classroom.google.com/c/NTg5NDk0MTg0Njk5/sa/NjMzODM2MjA5ODAy/details) to [M 11/6: Blog 1](https://classroom.google.com/c/NTg5NDk0MTg0Njk5/a/NjM3Njk2OTQ5OTM5/details) 
 . . . 
 #### TimeLine : [Assingment Name (1)](https://classroom.google.com/c/NTg5NDk0MTg0Njk5/sa/NjMzODM2MjA5ODAy/details) to [Assingment Name (2)](https://classroom.google.com/c/NTg5NDk0MTg0Njk5/sa/NjMzODM2MjA5ODAy/details) 
 . . . 
