@@ -71,7 +71,7 @@ In fact, the dedicated section "[All the other ideas I had ( as planning towards
 #### TimeLine : [M 11/6: Blog 1](https://classroom.google.com/c/NTg5NDk0MTg0Njk5/a/NjM3Njk2OTQ5OTM5/details) to [M 12/11: Blog 2](https://classroom.google.com/c/NTg5NDk0MTg0Njk5/a/NjQ1NTkxMDQyMzk1/details) 
 . . . 
 
-First Half : Continuation of second Half of [prior]() timeline . 
+First Half : Continuation of second Half of [prior](https://github.com/matthewg7679/apcsa-freedom-project/blob/main/blog/entry01draftNumber2.md#timeline--m-1016-fp-browse-tools-to-m-116-blog-1) timeline . 
 
 ### Main Tool ( Finalized ) 
 . . . 
