@@ -76,3 +76,4 @@ In fact, the dedicated section "[All the other ideas I had ( as planning towards
 . . . 
 ### All the other ideas I had ( as planning towards my main tool and/or main project to be worked on ) [ Part 1 ] 
 . . . 
+[ are ]Located at [the inside of]the [first draft](https://github.com/matthewg7679/apcsa-freedom-project/blob/main/blog/entry01draft.md#draft-n1).
