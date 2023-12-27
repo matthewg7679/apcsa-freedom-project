@@ -70,6 +70,9 @@ The general idea of "recreating Minecraft" cane be simplified by making assumpti
 In fact, the dedicated section "[All the other ideas I had ( as planning towards my main tool and/or main project to be worked on ) [ Part 1 ] ](https://github.com/matthewg7679/apcsa-freedom-project/blob/main/blog/entry01draftNumber2.md#all-the-other-ideas-i-had--as-planning-towards-my-main-tool-andor-main-project-to-be-worked-on---part-1-)" is the same section of this Blog which contains all of my ideas that I formed during this timeline after fully setting up my Blog entreies at this same timeline . This "idea forming" in my brain  that has been left out into the paper provided by the computer is what takes up the second half of the time of this timeline , at least to my best guess as to how much time was at least took to do the "formation of ideas" for me to simply do to plan ahead of time to simply do my general idea under "specific idea" restrictions . 
 #### TimeLine : [M 11/6: Blog 1](https://classroom.google.com/c/NTg5NDk0MTg0Njk5/a/NjM3Njk2OTQ5OTM5/details) to [M 12/11: Blog 2](https://classroom.google.com/c/NTg5NDk0MTg0Njk5/a/NjQ1NTkxMDQyMzk1/details) 
 . . . 
+
+First Half : Continuation of second Half of [prior]() timeline . 
+
 ### Main Tool ( Finalized ) 
 . . . 
 
