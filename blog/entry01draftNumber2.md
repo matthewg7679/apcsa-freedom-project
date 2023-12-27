@@ -74,6 +74,7 @@ In fact, the dedicated section "[All the other ideas I had ( as planning towards
 . . . 
 ### Backup Tool ( Finalized ) 
 . . . 
+["HTTP"](https://javarevisited.blogspot.com/2015/06/how-to-create-http-server-in-java-serversocket-example.html#axzz8GvAaXnTy) server in [using ]the Java programming language . 
 ### All the other ideas I had ( as planning towards my main tool and/or main project to be worked on ) [ Part 1 ] 
 . . . 
 [ are ]Located at [the inside of]the [first draft](https://github.com/matthewg7679/apcsa-freedom-project/blob/main/blog/entry01draft.md#draft-n1).
