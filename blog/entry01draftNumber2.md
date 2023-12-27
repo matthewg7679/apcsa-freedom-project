@@ -72,6 +72,7 @@ In fact, the dedicated section "[All the other ideas I had ( as planning towards
 . . . 
 
 First Half : Continuation of second Half of [prior](https://github.com/matthewg7679/apcsa-freedom-project/blob/main/blog/entry01draftNumber2.md#timeline--m-1016-fp-browse-tools-to-m-116-blog-1) timeline . 
+Second Half : Had to pause this Freedom Project to deal with other stuff like WriteUps, Project Stem, and any other AP CSA stuff ( this may also include stuff from other subjects ) . When I was actually ready to continue my Freedom Project , I ended the flow of "idea forming" in my head by ending with the final note of [how subchunks work in the chunks of my MineCraft clone]() . ( All other things related to this timeline are in [Blog Entry #2]() ) . 
 
 ### Main Tool ( Finalized ) 
 . . . 
