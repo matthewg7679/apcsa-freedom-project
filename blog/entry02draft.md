@@ -5,6 +5,9 @@
 
 Text ( subchunk = 16 [ blocks in height ] [ and that a subchunk is like to chunk as substrings are like to strings . ]) 
 
+[https://m.youtube.com/watch?v=LglApzUJ3oI](https://m.youtube.com/watch?v=LglApzUJ3oI) < == Example Video I will use for presenting my knowledge of the subject manner of subchunks . 
+####### -----------
+
 ### All the other ideas I had ( as planning towards my main tool and/or main project to be worked on ) [ Part 2 ] 
 
 . . . 
