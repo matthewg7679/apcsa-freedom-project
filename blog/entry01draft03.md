@@ -28,7 +28,7 @@ Second Half : Had to pause this Freedom Project to deal with other stuff like Wr
 ### Main Tool ( Finalized ) 
 . . . 
 
-Reference to [this](https://github.com/matthewg7679/apcsa-freedom-project/blob/main/blog/entry01draftNumber2.md#timeline--m-1016-fp-browse-tools-to-m-116-blog-1) section . 
+Reference to [this](https://github.com/matthewg7679/apcsa-freedom-project/blob/main/blog/entry01draft03.md#timeline--m-1016-fp-browse-tools-to-m-116-blog-1) section . 
 
 ### Backup Tool ( Finalized ) 
 . . . 
