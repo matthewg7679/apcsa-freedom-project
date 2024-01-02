@@ -28,7 +28,7 @@ Second Half : Had to pause this Freedom Project to deal with other stuff like Wr
 ### Main Tool ( Finalized ) 
 . . . 
 
-Reference to [this](https://github.com/matthewg7679/apcsa-freedom-project/blob/main/blog/entry01draft03.md#timeline--m-1016-fp-browse-tools-to-m-116-blog-1) section . 
+Trying to ["recreating Minecraft"](https://github.com/matthewg7679/apcsa-freedom-project/blob/main/blog/entry01draft03.md#timeline--m-1016-fp-browse-tools-to-m-116-blog-1) in the `Java` programing language is the simple priority to the best of my ability, even if it means I may put restrictions on the game so that it is possible to even code and finish the game in time stamp provided by the due date . 
 
 ### Backup Tool ( Finalized ) 
 . . . 
