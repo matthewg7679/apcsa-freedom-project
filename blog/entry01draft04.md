@@ -36,11 +36,6 @@ Trying to [be ]["recreating Minecraft"](https://github.com/matthewg7679/apcsa-fr
 I may do create an ["HTTP"](https://javarevisited.blogspot.com/2015/06/how-to-create-http-server-in-java-serversocket-example.html#axzz8GvAaXnTy) server in [using ]the Java programming language . This is because I can finally apply the Java programmin g language I learned in class outside in the real world . 
 
 ### All the other ideas I had ( as planning towards my main tool and/or main project to be worked on ) [ Part 1 ] 
-. . . 
-
-: 
-
-: 
 
 Also, for freedom project, I was able to have an idea as to how the Minecraft clone can be created fo the player menu when opening the inventory. 
 
