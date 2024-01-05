@@ -13,6 +13,7 @@ Text ( subchunk = 16 [ blocks in height ] [ and that a subchunk is like to chunk
 . . . 
 
 ```langauge 
+world_generation_chunk = [] 
 for i in range(world_generation_chunk_height):
     # 
     for i in range ( 16 ) : 
