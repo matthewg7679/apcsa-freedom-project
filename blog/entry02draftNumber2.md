@@ -16,15 +16,15 @@ Text ( subchunk = 16 [ blocks in height ] [ and that a subchunk is like to chunk
 world_generation_chunk = [] 
 for i in range(world_generation_chunk_height):
     # 
-    for i in range ( 16 ) : 
+    for i_0 in range ( 16 ) : # for i in range ( 16 ) : 
         # 
         >
-        exec(f('x{}_y{} = []')) 
+        exec(f('x{i_0}_y{i} = []')) 
         >
         # 
     # 
     >
-    . . . 
+    # world_generation_chunk 
     >
     # 
 # 
