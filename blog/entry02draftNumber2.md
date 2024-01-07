@@ -17,6 +17,8 @@ Text ( subchunk = 16 [ blocks in height ] [ and that a subchunk is like to chunk
 world_generation_chunk = [] 
 world_generation_chunk_height = ???
 for i in range(world_generation_chunk_height):
+    #
+    exec(f('variable_name_{i} = []'))
     # 
     for i_0 in range ( 16 ) : # for i in range ( 16 ) : 
         # 
