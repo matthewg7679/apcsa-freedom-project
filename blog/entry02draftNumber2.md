@@ -27,7 +27,7 @@ for i in range(world_generation_chunk_height):
         # 
     # 
     >
-    # world_generation_chunk 
+    # world_generation_chunk.add(x{i_0}_y{i}) 
     >
     # 
 # 
