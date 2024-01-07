@@ -15,7 +15,7 @@ Text ( subchunk = 16 [ blocks in height ] [ and that a subchunk is like to chunk
 **Before** recognizing "subchunk height" : 
 ```langauge 
 world_generation_chunk = [] 
-world_generation_chunk_height = ???
+world_generation_chunk_height = int(input("What is your world chunk height ? " ) # world_generation_chunk_height = ???
 for i in range(world_generation_chunk_height):
     #
     exec(f('variable_name_{i} = []'))
