@@ -12,6 +12,7 @@ Text ( subchunk = 16 [ blocks in height ] [ and that a subchunk is like to chunk
 
 . . . 
 
+**Before** recognizing "subchunk height" : 
 ```langauge 
 world_generation_chunk = [] 
 """ 
@@ -54,6 +55,7 @@ for i in range(world_generation_chunk_height) :
 # 
 ``` 
 
+**After** recognizing "subchunk height" : 
 ```language 
 multi 
 line 
