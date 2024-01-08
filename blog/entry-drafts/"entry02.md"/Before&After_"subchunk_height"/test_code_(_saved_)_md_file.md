@@ -162,6 +162,40 @@ private final String[][] /*Blocks_Valina*/Blocks_Modded/*Blocks_Modded*/ =
 
 Code # 2 : 
 ```language
+class MainCode {
+  public static void main(String[] args) {
+    String[] variable_names = 
+    {
+      "variable_name", "variable_name_1", "variable", 
+      "variable_name", "variable_name_2", "variable", 
+      "variable_name", "variable_name_3", "variable", 
+      "variable_name", "variable_name_4", "variable", 
+      "variable_name", "variable_name_5", "variable", 
+      "variable_name", "variable_name_6", "variable", 
+      "variable_name", "variable_name_7", "variable", 
+      "variable_name", "variable_name_8", "variable", 
+      "variable_name", "variable_name_9", "variable", 
+      "variable_name", "variable_name_10", "variable", 
+      "variable_name", "variable_name_11", "variable", 
+      "variable_name", "variable_name_12", "variable", 
+      "variable_name", "variable_name_13", "variable", 
+      "variable_name", "variable_name_14", "variable", 
+      "variable_name", "variable_name_15", "variable", 
+      "variable_name", "variable_name_16", "variable", 
+      "variable_name", "variable_name_17", "variable", 
+      "variable_name", "variable_name_18", "variable", 
+      "variable_name", "variable_name_19", "variable", 
+      "variable_name", "variable_name_20", "variable", 
+      "variable_name", "variable_name_21", "variable", 
+      "variable_name", "variable_name_22", "variable", 
+      " varuiable _ name _ 120983 "
+    }
+  }
+}
+``` 
+
+Code # 3 : 
+```language
 multi
 line
 code
