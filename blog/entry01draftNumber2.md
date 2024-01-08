@@ -1,8 +1,4 @@
-# Sections in terms of organization : 
-## Version #1 : 
-### The Journey that led up to these tools . 
-. . . 
-### Main Tool ( Finalized ) 
+## Main Tool ( Finalized ) 
 . . . 
 ### Backup Tool ( Finalized ) 
 . . . 
