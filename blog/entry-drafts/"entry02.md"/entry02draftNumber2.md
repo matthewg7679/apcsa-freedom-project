@@ -78,6 +78,24 @@ for i in range(world_generation_chunk_height) :
     >
     # 
 # 
+
+#
+tuple_string = '(' # tuple_string '('
+#
+for i in range(world_generation_chunk.length()): # for i in range(world_generation_chunk.length()): # for i in range(world_generation_chunk.length): # for i in range(world_generation_chunk_height):
+    #
+    tuple_string += f('{world_generation_chunk[0]}, ') # f('{world_generation_chunk[0]}, ') # f('world_generation_chunk[0]') # 'world_generation_chunk[0]'
+    # 
+    if i == world_generation_chunk.length() :
+        #
+        tuple_string -= ', '
+        # 
+    # 
+    world_generation_chunk.pop(0) # world_generation_chunk.remove(0) 
+    #
+#
+tuple_string += ')'\
+exec(tuple_string)) # exec(f('tuple_string')) 
 ``` 
 
 ### Section 
