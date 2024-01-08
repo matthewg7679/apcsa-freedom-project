@@ -47,7 +47,10 @@ subchunk_height = 16
 world_generation_chunk_height = int(input("What is your world chunk height ? " ) # world_generation_chunk_height = ???
 world_generation_chunk_height *= subchunk_height
 # world_generation_chunk_tuple = ()
-for i in range(world_generation_chunk_height) : 
+for i in range(world_generation_chunk_height) :
+    #
+    exec(f('subchunk_{i} = []')) # exec(f('variable_name_{i} = []')) 
+    # 
     for i_0 in range(subchunk_height):
         #
         exec(f('subchunk_{i}_layer_{i_0} = []')) 
