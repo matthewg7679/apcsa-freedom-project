@@ -49,6 +49,8 @@ world_generation_chunk_height *= subchunk_height
 # world_generation_chunk_tuple = ()
 for i in range(world_generation_chunk_height) : 
     for i_0 in range(subchunk_height):
+        #
+        exec(f('subchunk_{i}_layer_{i_0} = []')) 
         # 
         for i_1 in range ( 16 ) : # for i in range ( 16 ) : 
             # 
