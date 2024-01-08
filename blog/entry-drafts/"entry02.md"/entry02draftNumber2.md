@@ -79,6 +79,7 @@ for i in range(world_generation_chunk_height) :
     # 
 # 
 
+""" 
 #
 tuple_string = '(' # tuple_string '('
 #
@@ -96,6 +97,8 @@ for i in range(world_generation_chunk.length()): # for i in range(world_generati
 #
 tuple_string += ')'
 exec(tuple_string)) # exec(f('tuple_string')) 
+""" 
+exec(f(‘world_generation_chunk_tuple = ({(", ").join( ( world_generation_chunk.copy() ) )})‘))
 ``` 
 
 ### Section 
