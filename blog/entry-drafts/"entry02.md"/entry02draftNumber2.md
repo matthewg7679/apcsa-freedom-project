@@ -60,6 +60,11 @@ for i in range(world_generation_chunk_height) :
             >
             exec(f('x{i_1}_y{i_0} = []')) 
             exec(f('subchunk_{i}_layer_{i_0}.append(x{i_1}_y{i_0})')) # exec(f('variable_name_{i}.append(x{i_0}_y{i})')) # exec(f('subchunk_{}_layer_{}.add(x{i_1}_y{i_0})')) # world_generation_chunk.add(x{i_1}_y{i_0})
+            if i_1 == 16 : # if i_0 == 16 :
+                #
+                exec(f('world_generation_chunk.append(variable_name_{i})')) # exec(f('world_generation_chunk.add(variable_name_{i})')) # exec(f('world_generation_chunk.add(x{i_0}_y{i})'))
+                #
+            # 
             >
             # 
         # 
