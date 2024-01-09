@@ -1,3 +1,4 @@
+[ link https://ctxt.io/2/AADQurxNEw ](https://ctxt.io/2/AADQurxNEw) 
 ```language
 // Approach 1:
 String first = words.get(0);
