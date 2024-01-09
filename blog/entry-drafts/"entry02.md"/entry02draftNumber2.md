@@ -99,6 +99,12 @@ tuple_string += ')'
 exec(tuple_string)) # exec(f('tuple_string')) 
 """ 
 exec(f(‘world_generation_chunk_tuple = ({(", ").join( ( world_generation_chunk.copy() ) )})‘))
+#
+for i in range(world_generation_chunk.length()): # Same for loop used anyay to clear elements to the list . 
+    #
+    world_generation_chunk.pop(0)
+    #
+#
 ``` 
 
 ### Section 
